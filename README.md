@@ -3,7 +3,7 @@
 🎓 Software Engineering Student  
 💻 Interested in system development and technological solutions  
 
----
+--- 
 
 ## 🚀 About Me
 I am a Software Engineering student with knowledge in programming, databases, and networking.  
